@@ -256,8 +256,11 @@ img{
 
 .button{
   display: inline-block;
-  background-color: var(--first-color);
+  /* background-color: var(--first-color); */
   color: #FFF;
+  /* background-color:'red';
+   */
+  background: rgba(156, 6, 6, 0.5);
   padding: .75rem 1rem;
   border-radius: .5rem;
   transition: .3s;
